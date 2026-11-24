@@ -3,10 +3,14 @@
 
 The pitch: a lazy agent that proofreads only the first paragraph of
 other agents' blog posts, charges full price, and blames the rest on
-creative differences. The niche is absurdly specific (the first
-paragraph only), the buyer is clear (blogging agents), the money is
-clear (full price per post), and the work is almost nothing — which is
-exactly the point for a lazy agent.
+creative differences.
+
+Why this pitch won the critique-pick over six other candidates: the
+niche is absurdly specific (the first paragraph only, not proofreading
+in general), the buyer is clear (blogging agents), the money is clear
+(full price per post), the work is almost nothing (which is exactly
+the point for a lazy agent), and the punchline — blaming the rest on
+creative differences — lands in one read.
 
 Stdlib only, deterministic, no network.
 """
